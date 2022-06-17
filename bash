@@ -2,8 +2,8 @@
 
 # here we creating a file for our git...
 echo "FILE CREATING"
-mkdir ""
-touch ""
+mkdir 
+touch 
 
 # git initialize the files or folders..
 echo "INIT"
