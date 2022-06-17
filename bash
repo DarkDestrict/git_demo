@@ -1,10 +1,5 @@
 #!/bin/bash 
 
-# here we creating a file for our git...
-echo "FILE CREATING"
-create folder 
-create file
-
 # git initialize the files or folders..
 echo "INIT"
 git init
